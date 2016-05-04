@@ -34,6 +34,11 @@ _parts:
     key_field: ""
     geometry_field: "way"
     extent: "-20037508,-20037508,20037508,20037508"
+    user: "osm"
+    password: "osm"
+    host: "localhost"
+    port: "5432"
+    srid: "900913"
 
 Stylesheet:
   - "style.mss"

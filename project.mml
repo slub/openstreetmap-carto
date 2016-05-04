@@ -104,7 +104,13 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+        "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
+
       },
       "extent": [
         -180,
@@ -130,7 +136,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -156,7 +167,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -182,7 +198,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -208,7 +229,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -257,7 +283,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -283,7 +314,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -331,7 +367,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -357,7 +398,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -383,7 +429,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -409,7 +460,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -435,7 +491,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -461,7 +522,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -487,7 +553,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -513,7 +584,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -539,7 +615,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -565,7 +646,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -591,7 +677,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -618,7 +709,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -644,7 +740,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -670,7 +771,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -696,7 +802,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -722,7 +833,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -748,7 +864,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -774,7 +895,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -800,7 +926,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -825,7 +956,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -851,7 +987,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -877,7 +1018,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -903,7 +1049,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -929,7 +1080,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -955,7 +1111,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -982,7 +1143,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1008,7 +1174,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1035,7 +1206,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1060,7 +1236,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1087,7 +1268,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1114,7 +1300,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1140,7 +1331,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1166,7 +1362,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1192,7 +1393,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1218,7 +1424,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1244,7 +1455,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1270,7 +1486,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1296,7 +1517,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1323,7 +1549,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1349,7 +1580,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1375,7 +1611,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1401,7 +1642,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1427,7 +1673,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1453,7 +1704,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1479,7 +1735,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1505,7 +1766,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1532,7 +1798,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1558,7 +1829,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1584,7 +1860,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1610,7 +1891,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1636,7 +1922,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1662,7 +1953,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1688,7 +1984,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1715,7 +2016,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1741,7 +2047,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1767,7 +2078,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1793,7 +2109,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1819,7 +2140,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1845,7 +2171,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1871,7 +2202,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1897,7 +2233,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1923,7 +2264,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1949,7 +2295,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -1975,7 +2326,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -2001,7 +2357,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -2027,7 +2388,12 @@
         "geometry_field": "way",
         "type": "postgis",
         "key_field": "",
-        "dbname": "gis"
+                "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913"
       },
       "extent": [
         -180,
@@ -2062,7 +2428,12 @@
     "osm2pgsql": {
       "geometry_field": "way",
       "type": "postgis",
-      "dbname": "gis",
+              "dbname": "gis",
+        "user": "osm",
+        "password": "osm",
+        "host": "localhost",
+        "port": "5432",
+        "srid": "900913",
       "extent": "-20037508,-20037508,20037508,20037508",
       "key_field": ""
     },
