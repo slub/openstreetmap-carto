@@ -39,7 +39,8 @@ _parts:
     host: "localhost"
     port: "5432"
     srid: "900913"
-
+    max_async_connection: 2
+    asynchronous_request: true
 Stylesheet:
   - "style.mss"
   - "shapefiles.mss"
